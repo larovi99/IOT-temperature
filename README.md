@@ -18,7 +18,7 @@ The circuit in this project is easy.
 - Visual Studio Code
 - Android Studio
 - WAMP Server
-- 
+
 ### Hardware required
 - Phone with Android
 - Computer
