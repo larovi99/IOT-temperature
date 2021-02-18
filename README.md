@@ -1,16 +1,17 @@
 # IOT-temperature
 This project is based on the concept of Internet of Things. The goal is to detect the temperature through a DHT22 sensor, which this information will be received by an Android application using BLE (Bluetooth Low Energy). Finally, all the data will be stored in a database in a local Cloud.
 
-(diagrama)
+![alt text](https://github.com/larovi99/IOT-temperature/blob/main/images/diagram.png)
 
 ## Android App
 It consists of an Android application that connects the sensor with the Cloud, through Bluetooth Low Energy.
-(imatge)
 
+![alt text](https://github.com/larovi99/IOT-temperature/blob/main/images/app.jpg)
 
 ## Embedded platform
 The circuit in this project is easy.
-(imatge)
+
+![alt text](https://github.com/larovi99/IOT-temperature/blob/main/images/circuit.jpg)
 
 
 ## How to create the project
