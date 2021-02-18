@@ -15,7 +15,7 @@ The circuit in this project is easy.
 
 
 ## How to create the project
-### Hardware required
+### Software required
 - Visual Studio Code
 - Android Studio
 - WAMP Server
